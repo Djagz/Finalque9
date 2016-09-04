@@ -9,6 +9,7 @@ public class BasicCalculator {
 	}
 	
 	public int sub(int a, int b){
+                System.out.println("The answer of subtraction is: ");
 		return a - b;
 	}
 	
